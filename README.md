@@ -2,6 +2,7 @@
 Displays what you're listening to on Spotify in your Roblox profile
 
 # How to use
+- Download the rospotify.rar file from [Releases](https://github.com/SincerelyFair/Roblox-Spotify-Rich-Presence/releases/tag/release) and extract it
 - Create an app at: https://developer.spotify.com/dashboard/applications
 - Redirect URI should be `http://localhost:5000/callback` and you can use whatever name/description you want, save when you're done
 - Choose the app you made and click settings
